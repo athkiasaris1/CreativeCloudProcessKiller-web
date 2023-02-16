@@ -1,9 +1,10 @@
 # CreativeCloudProcessKiller-web
-For Creative Cloud Process Killer
+For [Creative Cloud Process Killer](https://github.com/athkiasaris1/Creative-Cloud-Process-Killer)
 
 The files on this repository are for CCPK to check if it is on the latest version.
 
-**Links:**
+
+## Links:
 
 [Current version](https://athkiasaris1.github.io/CreativeCloudProcessKiller-web/currentversion)
 
