@@ -13,3 +13,9 @@ The files on this repository are for CCPK to check if it is on the latest versio
 [Current pre-release version](https://athkiasaris1.github.io/CreativeCloudProcessKiller-web/currentprereleaseversion)
 
 [Current pre-release version with text](https://athkiasaris1.github.io/CreativeCloudProcessKiller-web/currentprereleaseversionwtext)
+
+*for 1.7.1+*
+
+[Current version with lines](https://athkiasaris1.github.io/CreativeCloudProcessKiller-web/1.7.1+/currentversionwithlines.html)
+
+[Current pre-release version with lines ](https://athkiasaris1.github.io/CreativeCloudProcessKiller-web/1.7.1+/currentprereleasewithlines.html)
